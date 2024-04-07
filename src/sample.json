@@ -1,0 +1,59 @@
+{
+"status": "ok",
+"totalResults": 14114,
+"articles": [
+{
+"source": {
+"id": "wired",
+"name": "Wired"
+},
+"author": "Joel Khalili",
+"title": "What’s Behind the Bitcoin Price Surge? Vibes, Mostly",
+"description": "The price of bitcoin has climbed to a new all-time high. But assigning the cryptocurrency a value is anything but trivial.",
+"url": "https://www.wired.com/story/bitcoin-price-record-economics/",
+"urlToImage": "https://media.wired.com/photos/65ef46042ca08b0e59a9682f/191:100/w_1280,c_limit/031124-business-bitcoin-economics.jpg",
+"publishedAt": "2024-03-12T18:13:56Z",
+"content": "The latest surge in the price of bitcoin is increasing the clamor around it, says Dal Bianco, drawing in yet more speculators and creating a self-reinforcing cycle. Likewise, when collective confiden… [+2967 chars]"
+},
+{
+"source": {
+"id": "wired",
+"name": "Wired"
+},
+"author": "Joel Khalili",
+"title": "The Science of Crypto Forensics Survives a Court Battle—for Now",
+"description": "A jury convicted Roman Sterlingov of money laundering this month. His defense team says it will appeal, saying the crypto-tracing technique at the heart of the case is “pseudoscience.”",
+"url": "https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/",
+"urlToImage": "https://media.wired.com/photos/6603759fd3a75d0aa76d16ab/191:100/w_1280,c_limit/business_crypto_tracing_forensics_trial.jpg",
+"publishedAt": "2024-03-27T11:00:00Z",
+"content": "On March 12, Russian-Swedish national Roman Sterlingov was found guilty of money laundering conspiracy and other violations by a federal jury in Washington, DC, for having operated Bitcoin Fog, a ser… [+3654 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "https://www.facebook.com/bbcnews",
+"title": "Woman found with £2bn in Bitcoin convicted",
+"description": "Jian Wen, 42, from north London, was involved in converting Bitcoin into assets like luxury houses.",
+"url": "https://www.bbc.co.uk/news/uk-england-london-68620253",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17FE5/production/_132977289_wen2.jpg",
+"publishedAt": "2024-03-20T17:50:49Z",
+"content": "A former takeaway worker found with Bitcoin worth more than £2bn has been convicted at Southwark Crown Court of a crime linked to money laundering.\r\nJian Wen, 42, from Hendon in north London, was inv… [+2779 chars]"
+},
+{
+"source": {
+"id": "ars-technica",
+"name": "Ars Technica"
+},
+"author": "Ashley Belanger",
+"title": "Bitcoin price hits record $69K after SEC approvals fueled $7B in investments",
+"description": "SEC chair warns bitcoin is still \"volatile\" and linked to \"illicit activity.\"",
+"url": "https://arstechnica.com/tech-policy/2024/03/bitcoin-price-hits-record-69k-after-sec-approvals-fueled-7b-in-investments/",
+"urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1872368024-760x380.jpg",
+"publishedAt": "2024-03-05T19:07:13Z",
+"content": "20\r\nBitcoin's price hit a record high Tuesday, surging above $69,000 and notching past its prior peak price of $68,991.85 recorded in 2021.\r\nAfter bitcoin's price sunk in 2022 amid a cryptocurrency i… [+4343 chars]"
+}
+
+]
+}
